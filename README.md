@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Monster Rolodex
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+Exercise react based app that filters list of monster with a search field.
 
 ## Available Scripts
 
